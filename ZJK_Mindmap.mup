@@ -1,0 +1,143 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Aplikace",
+      "id": 1,
+      "attr": {
+        "position": [
+          -79,
+          -24,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Seznámení se s projektem",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "Zvolení rolí",
+              "id": 22
+            },
+            "2": {
+              "title": "Vytvořit název aplikace",
+              "id": 25
+            },
+            "3": {
+              "title": "Naplánování schůzek",
+              "id": 39
+            }
+          },
+          "attr": {
+            "position": [
+              76,
+              -284,
+              3
+            ]
+          }
+        },
+        "11": {
+          "title": "Vytvořit sdílené uložiště",
+          "id": 26,
+          "ideas": {
+            "1": {
+              "title": "Vytvořit Task log ve sdíleném uložišti",
+              "id": 27,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Vytvořit a vložit Risk log do sdíleného uložiště",
+              "id": 28
+            },
+            "3": {
+              "title": "Vytvořit a vložit projektový plán do sdíleného uložiště",
+              "id": 29,
+              "ideas": {}
+            },
+            "4": {
+              "title": "Vytvořit a vložit vizualizaci do sdíleného uložiště",
+              "id": 31
+            }
+          }
+        },
+        "12": {
+          "title": "Zakončení",
+          "id": 52,
+          "ideas": {
+            "3": {
+              "title": "Příprava a zpuštění aplikace",
+              "id": 55
+            },
+            "4": {
+              "title": "Konečná revize",
+              "id": 57
+            },
+            "5": {
+              "title": "Funkční aplikace (:",
+              "id": 59
+            },
+            "3.5": {
+              "title": "OTEST",
+              "id": 60,
+              "attr": {}
+            }
+          },
+          "attr": {
+            "position": [
+              40,
+              283,
+              2
+            ]
+          }
+        },
+        "-1": {
+          "title": "Výběr technologií",
+          "id": 41,
+          "ideas": {
+            "1": {
+              "title": "Výběr technologie pro Frontend",
+              "id": 42
+            },
+            "2": {
+              "title": "Výběr technologie pro Backend",
+              "id": 43
+            }
+          }
+        },
+        "-2": {
+          "title": "Vývoj",
+          "id": 45,
+          "ideas": {
+            "1": {
+              "title": "Vývoj aplikace",
+              "id": 48
+            },
+            "2": {
+              "title": "Testování aplikace",
+              "id": 49
+            },
+            "3": {
+              "title": "Vytvoření technické dokumentace aplikace",
+              "id": 50
+            },
+            "4": {
+              "title": "Vytvoření uživatelské dokumentace pro aplikaci",
+              "id": 51
+            }
+          },
+          "attr": {
+            "position": [
+              146,
+              144,
+              1
+            ]
+          }
+        }
+      }
+    }
+  },
+  "title": "Aplikace",
+  "links": []
+}
